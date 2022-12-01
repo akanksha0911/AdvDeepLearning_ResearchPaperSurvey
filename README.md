@@ -24,8 +24,6 @@ Youtube Video Link:
 
 https://ieeexplore-ieee-org.libaccess.sjlibrary.org/stamp/stamp.jsp?tp=&arnumber=9892886&tag=1
 
-FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs
-Few-shot graph classification aims at predicting classes for graphs, given limited labeled graphs for each class. To…
-arxiv.org
+https://ieeexplore-ieee-org.libaccess.sjlibrary.org/stamp/stamp.jsp?tp=&arnumber=9892886&tag=1
 
 https://sites.google.com/view/a-closer-look-at-few-shot/?pli=1
