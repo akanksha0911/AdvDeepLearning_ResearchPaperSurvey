@@ -1,6 +1,15 @@
 # AdvDeepLearning_ResearchPaperSurvey
 Research paper review
 
+# “Few-shot Graph Classification with Contrastive Loss and Meta-classifier”
+
+## what is a few-shot classification?
+Few-shot classification aims to learn a classifier to recognize unseen classes during training with limited labeled examples.
+
+# Introduction:
+“Few-shot Graph Classification with Contrastive Loss and Meta-classifier,” a paper by Chao Wei and Zhidong Deng, investigates the problem of few-shot graph classification. They presented a novel graph contrastive relation network (GCRNet) by introducing a practical yet straightforward graph meta-baseline with contrastive loss and meta-classifier, which achieved comparable performance for graph few-shot learning.
+
+
 
 Paper Link: https://ieeexplore-ieee-org.libaccess.sjlibrary.org/stamp/stamp.jsp?tp=&arnumber=9892886&tag=1
 
