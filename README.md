@@ -15,6 +15,6 @@ Paper Link: https://ieeexplore-ieee-org.libaccess.sjlibrary.org/stamp/stamp.jsp?
 
 Medium Article Link: https://medium.com/@rawatakanksha2020/a-birds-eye-view-of-few-shot-graph-classification-with-contrastive-loss-and-meta-classifier-e91cc05cdf63
 
-Slide Share Link: 
+Slide Share Link: https://www.slideshare.net/AkankshaRawat53/paperreview-fewshot-graph-classification-with-contrastive-loss-and-metaclassifier-by-chao-wei-zhidong-dengpptx
 
 Youtube Video Link: 
