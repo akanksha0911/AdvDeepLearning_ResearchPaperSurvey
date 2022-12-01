@@ -17,7 +17,7 @@ Medium Article Link: https://medium.com/@rawatakanksha2020/a-birds-eye-view-of-f
 
 Slide Share Link: https://www.slideshare.net/AkankshaRawat53/paperreview-fewshot-graph-classification-with-contrastive-loss-and-metaclassifier-by-chao-wei-zhidong-dengpptx
 
-Youtube Video Link: 
+Youtube Video Link: https://youtu.be/Uv1taAFhStA
 
 
 # References:
