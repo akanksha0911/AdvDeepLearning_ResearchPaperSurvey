@@ -13,9 +13,10 @@ Few-shot classification aims to learn a classifier to recognize unseen classes d
 
 Paper Link: https://ieeexplore-ieee-org.libaccess.sjlibrary.org/stamp/stamp.jsp?tp=&arnumber=9892886&tag=1
 
+
 Medium Article Link: https://medium.com/@rawatakanksha2020/a-birds-eye-view-of-few-shot-graph-classification-with-contrastive-loss-and-meta-classifier-e91cc05cdf63
 
-Slide Share Link: https://www.slideshare.net/AkankshaRawat53/paperreview-fewshot-graph-classification-with-contrastive-loss-and-metaclassifier-by-chao-wei-zhidong-deng-1pptx
+Slide Share Link: https://www.slideshare.net/AkankshaRawat53/paperreview-fewshot-graph-classification-with-contrastive-loss-and-metaclassifier-by-chao-wei-zhidong-deng-2pptx
 
 Youtube Video Link: https://youtu.be/Uv1taAFhStA
 
